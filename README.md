@@ -6,7 +6,7 @@ OpenCV and scikit-learn for color clustering.
 
 #Observations 
 
-- 1st try
+- (when k = 8)
 
 - Initial image
   
